@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aiyanintofire.github.io</id>
     <title>Nick&apos;s Blog-严之艮的个人博客</title>
-    <updated>2020-05-19T08:37:32.256Z</updated>
+    <updated>2020-05-19T08:42:47.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aiyanintofire.github.io"/>
     <link rel="self" href="https://aiyanintofire.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://aiyanintofire.github.io/post/gan-huo-jian-zhan-jiao-cheng/</id>
         <link href="https://aiyanintofire.github.io/post/gan-huo-jian-zhan-jiao-cheng/">
         </link>
-        <updated>2020-05-19T07:40:57.000Z</updated>
+        <updated>2020-05-05T07:40:57.000Z</updated>
         <content type="html"><![CDATA[<pre><code>    由于博主是穷学生一枚，所以没钱买服务器和域名，所以只能用GitHub个人托管项目建站
     那么，这篇博客是我这几一段时间学前端尤其是网页开发的总结，同时也作为一篇前端开发教程送给各位想建立自己网站的同学的一篇教程。
      一个网站的大体有什么组成呢？简单来说，一个网站由 域名 DNS服务器 网站服务器 网页内容组成
