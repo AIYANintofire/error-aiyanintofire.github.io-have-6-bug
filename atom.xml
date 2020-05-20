@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aiyanintofire.github.io</id>
     <title>Nick&apos;s Blog-严之艮的个人博客</title>
-    <updated>2020-05-20T12:53:13.164Z</updated>
+    <updated>2020-05-20T13:05:47.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aiyanintofire.github.io"/>
     <link rel="self" href="https://aiyanintofire.github.io/atom.xml"/>
@@ -16,8 +16,10 @@
         <link href="https://aiyanintofire.github.io/post/bo-ke-ji-zhu-jiao-liu-qun/">
         </link>
         <updated>2020-05-19T09:44:39.000Z</updated>
-        <content type="html"><![CDATA[<p>#QQ:964566216<br>
-#欢迎大家加入</p>
+        <content type="html"><![CDATA[<blockquote>
+<p>QQ:964566216<br>
+欢迎大家加入</p>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
@@ -26,47 +28,54 @@
         <link href="https://aiyanintofire.github.io/post/gan-huo-jian-zhan-jiao-cheng/">
         </link>
         <updated>2020-05-05T07:40:57.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="由于博主是穷学生一枚所以没钱买服务器和域名所以只能用github个人托管项目建站">由于博主是穷学生一枚，所以没钱买服务器和域名，所以只能用GitHub个人托管项目建站</h3>
-<h3 id="那么这篇博客是我这几一段时间学前端尤其是网页开发的总结同时也作为一篇前端开发教程送给各位想建立自己网站的同学的一篇教程">那么，这篇博客是我这几一段时间学前端尤其是网页开发的总结，同时也作为一篇前端开发教程送给各位想建立自己网站的同学的一篇教程。</h3>
-<h3 id="一个网站的大体有什么组成呢简单来说一个网站由-域名-dns服务器-网站服务器-网页内容组成">一个网站的大体有什么组成呢？简单来说，一个网站由 域名 DNS服务器 网站服务器 网页内容组成</h3>
-<h3 id="先说说域名有钱的同学可以上如国内的有如万网-阿里巴巴-dnspodes-国外的如dodady之类的网站买一个域名也不贵连同一并提供dns服务的域名也就几十块钱一年-但是对于一名在校学生而言其实并不值得花费大量的财力物力在这上面">先说说域名,有钱的同学可以上如国内的有如万网 阿里巴巴 DNSPODES 国外的如dodady之类的网站买一个域名,也不贵,连同一并提供DNS服务的域名也就几十块钱一年。但是对于一名在校学生而言，其实并不值得·花费大量的财力物力在这上面。</h3>
-<h3 id="所以我要讲的第二种方案显然给适合像我一样想要炫技但钱包空空的穷学生我们可以通过git项目来搭建个人网站-著名的git项目托管站有很多国内的gitee国外的有github-gitlab等">所以我要讲的第二种方案，显然给适合像我一样，想要炫技，但钱包空空的穷学生，我们可以通过git项目来搭建个人网站。著名的git项目托管站有很多国内的gitee国外的有GitHub gitlab等。</h3>
-<h3 id="博主我首推github因为他对于新手很友好至少储存容量没有限制-只不过是国际网站可能访问速度比较慢">博主我首推GitHub，因为他对于新手很友好，至少储存容量没有限制。只不过是国际网站，可能访问速度比较慢。</h3>
-<h3 id="下面以github为例我们来具体说一说怎么操作">下面以GitHub为例，我们来具体说一说怎么操作</h3>
-<h3 id="首先你必须要有一个github账号建议注册时用你常用的邮箱这样可以有效防止信息泄露和保障你建立的网站的安全性注册账号建议用chrome谷歌浏览器因为有自带的网站翻译-然后给你的github账号起一个好听的名字等一下你建立的网站地址名称会是你的账户名">首先你必须要有一个GitHub账号，建议注册时用你常用的邮箱，这样可以有效防止信息泄露和保障你建立的网站的安全性，注册账号建议用chrome(谷歌浏览器)，因为有自带的网站翻译。然后给你的GitHub账号起一个好听的名字(等一下你建立的网站地址名称会是你的账户名)</h3>
-<h3 id="打开githubcom来到你的主页在右上角有个的符号点击它">打开GitHub.com来到你的主页，在右上角有个＋的符号，点击它</h3>
-<h3 id="会有一个下拉菜单弹出-点击最上面的一个选项也就是new-repository选项这个选项的意思是新建储存库">会有一个下拉菜单弹出 ，点击最上面的一个选项也就是New repository选项这个选项的意思是：新建储存库</h3>
-<h3 id="点完新建储存库后你会看到有一个按钮上显示你的账户名在这个按钮后会有一个-斜杠而斜杠后会有一个输入框">点完新建储存库后你会看到有一个按钮上显示你的账户名，在这个按钮后会有一个/ (斜杠)，而斜杠后会有一个输入框</h3>
-<h3 id="在这个输入框中输入name你的账户名githubio">在这个输入框中输入：name(你的账户名).github.io</h3>
-<h3 id="就像博主我的github账户名叫aiyanintofire">就像博主，我的GitHub账户名叫:aiyanintofire</h3>
-<h3 id="所以我在这个输入框中输入aiyanintofiregithubio">所以我在这个输入框中输入:aiyanintofire.github.io</h3>
-<h3 id="输完后下拉到最后有个绿绿的按钮把它按下-这样你的网站就有域名了你的网站的域名就是name你的账户名githubio就像博主我的域名是aiyanintofiregithubio而我们的dns提供商就是github">输完后下拉到最后有个绿绿的按钮，把它按下。这样你的网站就有域名了，你的网站的域名就是：name(你的账户名).github.io就像博主，我的域名是aiyanintofire.github.io而我们的DNS提供商就是GitHub</h3>
-<h3 id="创建完储存库后仔细找找会发现有一个方框里大大大http下有一行小小蓝色的字写着create-new-file-的按钮翻译过来就是建立新档案或创建新文件点击它跳转新界面后见到一个大大的输入框还标有第一行的标志-就在这个框上面有小很多一个方框这个小一点的方框后面还跟着个名叫cancel的按钮在这个小方框中输入indexhtml">创建完储存库后仔细找找会发现有一个方框里大大大“http”下有一行小小蓝色的字写着create new file 的按钮，翻译过来就是：建立新档案(或创建新文件)点击它，跳转新界面后见到一个大大的输入框还标有第一行的标志。就在这个框上面有小很多一个方框，这个小一点的方框后面还跟着个名叫cancel的按钮，在这个小方框中输入：index.html</h3>
-<h3 id="先不要关闭这个界面先跟我走">先不要关闭这个界面，先跟我走。</h3>
-<h3 id="如果会html编程的同学请略过我现在要说的部分">如果会html编程的同学请略过我现在要说的部分</h3>
-<h3 id="不会html的同学跟我走">不会html的同学跟我走！</h3>
-<h3 id="打开httpswwwbootcsscomplayoutit">打开：https://www.bootcss.com/p/layoutit</h3>
-<h3 id="在布局设置里随便选择一个按住拖住按钮把他拖进右边的界面然后把你要添加的组件拖进你刚刚拖进去的方框tips布局设置里的方框可以拖进多个这多个方框可以互相镶套也可以上下并列大家大胆摸索一下就会用了">在布局设置里随便选择一个按住拖住按钮把他拖进右边的界面然后把你要添加的组件拖进你刚刚拖进去的方框(tips:布局设置里的方框可以拖进多个，这多个方框可以互相镶套，也可以上下并列)大家大胆摸索一下就会用了。</h3>
-<h3 id="把你满意的作品点击保存在保存键旁有一个名叫下载-的按钮">把你满意的作品点击保存在保存键旁有一个名叫：下载 的按钮</h3>
-<h3 id="点击它">点击它</h3>
-<h3 id="会弹出一些代码把全部的代码复制然后粘贴到刚刚在github创建的indexhtml文件的大方框里在粘贴前先在大方框里随便按几行回车键至少创建四行空白-然后在回车创建的空白行里粘贴以下代码">会弹出一些代码，把全部的代码复制，然后粘贴到刚刚在GitHub创建的index.html文件的大方框里，在粘贴前先在大方框里随便按几行回车键(至少创建四行空白)。然后在回车创建的空白行里粘贴以下代码：</h3>
+        <content type="html"><![CDATA[<blockquote>
+<pre><code> 由于博主是穷学生一枚，所以没钱买服务器和域名，所以只能用GitHub个人托管项目建站
+  那么，这篇博客是我这几一段时间学前端尤其是网页开发的总结，同时也作为一篇前端开发教程送给各位想建立自己网站的同学的一篇教程。
+   一个网站的大体有什么组成呢？简单来说，一个网站由 域名 DNS服务器 网站服务器 网页内容组成
+  先说说域名,有钱的同学可以上如国内的有如万网 阿里巴巴 DNSPODES 国外的如dodady之类的网站买一个域名,也不贵,连同一并提供DNS服务的域名也就几十块钱一年。但是对于一名在校学生而言，其实并不值得·花费大量的财力物力在这上面。
+  所以我要讲的第二种方案，显然给适合像我一样，想要炫技，但钱包空空的穷学生，我们可以通过git项目来搭建个人网站。著名的git项目托管站有很多国内的gitee国外的有GitHub gitlab等。
+  博主我首推GitHub，因为他对于新手很友好，至少储存容量没有限制。只不过是国际网站，可能访问速度比较慢。
+   下面以GitHub为例，我们来具体说一说怎么操作
+ 首先你必须要有一个GitHub账号，建议注册时用你常用的邮箱，这样可以有效防止信息泄露和保障你建立的网站的安全性，注册账号建议用chrome(谷歌浏览器)，因为有自带的网站翻译。然后给你的GitHub账号起一个好听的名字(等一下你建立的网站地址名称会是你的账户名)
+    打开GitHub.com来到你的主页，在右上角有个＋的符号，点击它 
+    会有一个下拉菜单弹出 ，点击最上面的一个选项也就是New repository选项这个选项的意思是：新建储存库
+    点完新建储存库后你会看到有一个按钮上显示你的账户名，在这个按钮后会有一个/ (斜杠)，而斜杠后会有一个输入框
+    在这个输入框中输入：name(你的账户名).github.io
+    就像博主，我的GitHub账户名叫:aiyanintofire
+    所以我在这个输入框中输入:aiyanintofire.github.io
+    输完后下拉到最后有个绿绿的按钮，把它按下。这样你的网站就有域名了，你的网站的域名就是：name(你的账户名).github.io就像博主，我的域名是aiyanintofire.github.io而我们的DNS提供商就是GitHub
+    创建完储存库后仔细找找会发现有一个方框里大大大“http”下有一行小小蓝色的字写着create new file 的按钮，翻译过来就是：建立新档案(或创建新文件)点击它，跳转新界面后见到一个大大的输入框还标有第一行的标志。就在这个框上面有小很多一个方框，这个小一点的方框后面还跟着个名叫cancel的按钮，在这个小方框中输入：index.html
+    先不要关闭这个界面，先跟我走。
+   如果会html编程的同学请略过我现在要说的部分
+  不会html的同学跟我走！
+   打开：https://www.bootcss.com/p/layoutit
+   在布局设置里随便选择一个按住拖住按钮把他拖进右边的界面然后把你要添加的组件拖进你刚刚拖进去的方框(tips:布局设置里的方框可以拖进多个，这多个方框可以互相镶套，也可以上下并列)大家大胆摸索一下就会用了。
+   把你满意的作品点击保存在保存键旁有一个名叫：下载 的按钮
+   点击它
+   会弹出一些代码，把全部的代码复制，然后粘贴到刚刚在GitHub创建的index.html文件的大方框里，在粘贴前先在大方框里随便按几行回车键(至少创建四行空白)。然后在回车创建的空白行里粘贴以下代码：
+</code></pre>
+</blockquote>
 <pre><code>    &lt;link rel=&quot;stylesheet&quot; href=&quot;bootstrap-responsive.css&quot;&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;bootstrap-responsive.min.css&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;bootstrap.css&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;bootstrap.min.css&gt;
 </code></pre>
-<h3 id="下拉到最后还是点击那个绿绿的按钮保存">下拉到最后，还是点击那个绿绿的按钮(保存)</h3>
-<h3 id="然后打开httpgithubcom-点击你创建好的的储存库在刚刚我们按下的create-new-file-按钮旁有另一个叫upload-file-的按钮点击它先别关这个界面">然后打开http://GitHub.com/ 点击你创建好的的储存库在刚刚我们按下的create new file 按钮旁有另一个叫：upload file 的按钮点击它，先别关这个界面</h3>
-<h3 id="打开httpswwwbootcsscom下载bootstrap3中文文档">打开https://www.bootcss.com/下载：Bootstrap3中文文档</h3>
-<h3 id="在下载好的文件中打开一个叫css的小文件夹里面有四个小文件你其实可以前往httpsyzgshareimfastio那里下载">在下载好的文件中打开一个叫css的小文件夹里面有四个小文件(你其实可以前往https://yzgshare.imfast.io/那里下载)</h3>
-<h3 id="然后把四个小文件拖进-upload-file-界面里的方框内先耐心等待喝杯茶压压惊">然后把四个小文件拖进 upload file 界面里的方框内，先耐心等待，喝杯茶压压惊</h3>
-<h3 id="等文件传输好后还是点击那个网页末端的-绿绿的按钮保存">等文件传输好后还是点击那个网页末端的 绿绿的按钮(保存)</h3>
-<h3 id="打开你的网页name你的账号名githubio">打开你的网页：name(你的账号名).github.io</h3>
-<h3 id="博主的网页aiyanintofiregithubio">博主的网页：aiyanintofire.github.io</h3>
-<h3 id="amazing网站创建好了">Amazing！网站创建好了！</h3>
-<h3 id="记得私信博主让博主康康你的网站">记得私信博主让博主康康你的网站！</h3>
-<h3 id=""></h3>
-<h3 id="博主nick-2020-05-05">博主：Nick 2020-05-05</h3>
+<blockquote>
+<pre><code>   下拉到最后，还是点击那个绿绿的按钮(保存)
+   然后打开http://GitHub.com/ 点击你创建好的的储存库在刚刚我们按下的create new file 按钮旁有另一个叫：upload file 的按钮点击它，先别关这个界面
+   打开https://www.bootcss.com/下载：Bootstrap3中文文档
+   在下载好的文件中打开一个叫css的小文件夹里面有四个小文件(你其实可以前往https://yzgshare.imfast.io/那里下载)
+   然后把四个小文件拖进 upload file 界面里的方框内，先耐心等待，喝杯茶压压惊
+   等文件传输好后还是点击那个网页末端的 绿绿的按钮(保存)
+   打开你的网页：name(你的账号名).github.io
+   博主的网页：aiyanintofire.github.io
+   Amazing！网站创建好了！
+   记得私信博主让博主康康你的网站！		
+</code></pre>
+</blockquote>
+<blockquote>
+<pre><code>    博主：Nick 2020-05-05</code></pre>
+</blockquote>
 ]]></content>
     </entry>
 </feed>
