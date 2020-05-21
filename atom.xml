@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aiyanintofire.github.io</id>
     <title>Nick&apos;s Blog-严之艮的个人博客</title>
-    <updated>2020-05-21T02:25:02.625Z</updated>
+    <updated>2020-05-21T02:41:21.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aiyanintofire.github.io"/>
     <link rel="self" href="https://aiyanintofire.github.io/atom.xml"/>
@@ -55,7 +55,25 @@
 <img src="https://aiyanintofire.github.io/post-images/1590027591042.png" alt="" loading="lazy"><br>
 然后...<br>
 <img src="https://aiyanintofire.github.io/post-images/1590027872168.png" alt="" loading="lazy"><br>
-<img src="https://aiyanintofire.github.io/post-images/1590027889497.webp" alt="" loading="lazy"></p>
+<img src="https://aiyanintofire.github.io/post-images/1590027889497.webp" alt="" loading="lazy"><br>
+配置完成后直接就可以编写博客啦!</p>
+<blockquote>
+<p>注意:Gridea的博客编写也是有语法的!是Markdown语法</p>
+</blockquote>
+<p>如果不会Markdown的同学请点击<a href="https://www.runoob.com/markdown/md-tutorial.html">Markdown学习</a><br>
+但是Gridea的语法很奇怪,不是很正宗的Markdonw</p>
+<h2 id="gridea编辑博客语法">Gridea编辑博客语法</h2>
+<blockquote>
+<p>不知道是不是因为我用的是Windows端导致的</p>
+</blockquote>
+<blockquote>
+<p>在Gridea的Markdown中<br>
+想要完成一个目录必须在#号后面加两个空格<br>
+文章照常不用语法但段首不得空两个字英语里称之为齐头式<br>
+Gridea也没有办法用加粗或斜体符</p>
+</blockquote>
+<p>哎<sub>终于讲完了</sub>吁~</p>
+<p>博主:Nick 2020-05-21</p>
 ]]></content>
     </entry>
     <entry>
