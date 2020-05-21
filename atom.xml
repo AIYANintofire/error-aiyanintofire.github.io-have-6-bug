@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aiyanintofire.github.io</id>
     <title>Nick&apos;s Blog-严之艮的个人博客</title>
-    <updated>2020-05-21T01:30:00.037Z</updated>
+    <updated>2020-05-21T01:32:53.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aiyanintofire.github.io"/>
     <link rel="self" href="https://aiyanintofire.github.io/atom.xml"/>
@@ -19,23 +19,23 @@
         <content type="html"><![CDATA[<blockquote>
 <p>这是我第二篇关于建站的教程了,因为写得比较仓促所以很多细节要等博主有时间的时候再来完善了,大家都知道,码字辛苦,所以请各位客官大大的高抬贵手,别喷我~~~</p>
 </blockquote>
-<h1 id="由于之前博主对于建站这码事涉猎不多所以没能完整的思路清晰的写好一个站点所以今天我就给大家安利一款小白也能编写博客的软件只要你会点击鼠标就可以拥有一个博客">由于之前博主对于建站这码事涉猎不多所以没能完整的思路清晰的写好一个站点所以今天我就给大家安利一款小白也能编写博客的软件,只要你会点击鼠标,就可以拥有一个博客!</h1>
-<p>*准备：<br>
+<h1 id="前言">前言</h1>
+<p>由于之前博主对于建站这码事涉猎不多所以没能完整的思路清晰的写好一个站点所以今天我就给大家安利一款小白也能编写博客的软件,只要你会点击鼠标,就可以拥有一个博客!<br>
+*准备：<br>
 1.软件:Gridea<br>
 2.主题:主题下载<a href="https://gridea.dev/themes/">Gridea官方主题地址</a><br>
 3.账号方面:一个<a href="https://github.com/">GitHub</a>账号<a href="https://aiyanintofire.github.io/post/gan-huo-jian-zhan-jiao-cheng/">参见我上一篇文章</a></p>
 <h1 id="关于gridea">关于Gridea</h1>
-<pre><code> Gridea是一个专门编辑GitHub托管静态网站博客的软件,虽然作者没有明确说明,但经博主分析,Gridea是在部分基于Git的基础上面向小白的一款个人网站编辑器
- 在此基础上各路大神已经为该社区贡献了数十个主题,因为大家都处于开源社区所以大部分主题都是免费的,开源的
-</code></pre>
+<p>Gridea是一个专门编辑GitHub托管静态网站博客的软件,虽然作者没有明确说明,但经博主分析,Gridea是在部分基于Git的基础上面向小白的一款个人网站编辑器<br>
+在此基础上各路大神已经为该社区贡献了数十个主题,因为大家都处于开源社区所以大部分主题都是免费的,开源的</p>
 <h1 id="关于nicks-blog">关于Nick's Blog</h1>
-<pre><code> 博主现如今也投身Gridea的怀抱,原因很简单,之前有了解过我的博客的发展历史的人都知道,我之前费尽心思,多次熬夜爆肝写代码,花了我四天时间才把网站的主体框架搭建好,外加写两篇博文,一共花了我六天时间!为什么算下来写一篇博文要花我一天时间?哼!每写一篇博文,博主都要费尽心思写一个HTML代码!
- 什么意思?
- 就是写一篇博文,博主都要重新搭建一个网站!
-</code></pre>
-<p>#进入正题<br>
-##进入<a href="https://gridea.dev/">Gridea官网</a><br>
-<img src="https://aiyanintofire.github.io/post-images/1590024468856.png" alt="" loading="lazy"></p>
+<p>博主现如今也投身Gridea的怀抱,原因很简单,之前有了解过我的博客的发展历史的人都知道,我之前费尽心思,多次熬夜爆肝写代码,花了我四天时间才把网站的主体框架搭建好,外加写两篇博文,一共花了我六天时间!为什么算下来写一篇博文要花我一天时间?哼!每写一篇博文,博主都要费尽心思写一个HTML代码!<br>
+什么意思?<br>
+就是写一篇博文,博主都要重新搭建一个网站!</p>
+<h1 id="进入正题">进入正题</h1>
+<h2 id="进入gridea官网">进入<a href="https://gridea.dev/">Gridea官网</a></h2>
+<pre><code>     ![](https://aiyanintofire.github.io/post-images/1590024468856.png)
+     进入主题</code></pre>
 ]]></content>
     </entry>
     <entry>
