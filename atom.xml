@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aiyanintofire.github.io</id>
     <title>Nick&apos;s Blog-严之艮的个人博客</title>
-    <updated>2020-05-21T00:30:00.313Z</updated>
+    <updated>2020-05-21T00:46:51.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aiyanintofire.github.io"/>
     <link rel="self" href="https://aiyanintofire.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://aiyanintofire.github.io/images/avatar.png</logo>
     <icon>https://aiyanintofire.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Nick&apos;s Blog-严之艮的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Gridea编写博客教程]]></title>
+        <id>https://aiyanintofire.github.io/post/shi-yong-gridea-bian-xie-bo-ke-jiao-cheng/</id>
+        <link href="https://aiyanintofire.github.io/post/shi-yong-gridea-bian-xie-bo-ke-jiao-cheng/">
+        </link>
+        <updated>2020-05-21T00:32:06.000Z</updated>
+        <content type="html"><![CDATA[<p>##由于之前博主对于建站这码事涉猎不多所以没能完整的思路清晰的写好一个站点所以今天我就给大家安利一款小白也能编写博客的软件,只要你会点击鼠标,就可以拥有一个博客!<br>
+*准备：<br>
+-软件:Gridea<br>
+-主题:主题下载<a href="https://gridea.dev/themes/">Gridea官方主题地址</a><br>
+-账号方面:一个<a href="https://github.com/">GitHub</a>账号<a href="https://aiyanintofire.github.io/post/gan-huo-jian-zhan-jiao-cheng/">参见我上一篇文章</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博客技术交流群]]></title>
         <id>https://aiyanintofire.github.io/post/bo-ke-ji-zhu-jiao-liu-qun/</id>
