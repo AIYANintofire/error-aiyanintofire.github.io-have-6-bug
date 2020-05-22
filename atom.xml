@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aiyanintofire.github.io</id>
     <title>Nick&apos;s Blog-严之艮的个人博客</title>
-    <updated>2020-05-21T11:20:12.856Z</updated>
+    <updated>2020-05-22T12:27:45.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aiyanintofire.github.io"/>
     <link rel="self" href="https://aiyanintofire.github.io/atom.xml"/>
@@ -10,6 +10,55 @@
     <logo>https://aiyanintofire.github.io/images/avatar.png</logo>
     <icon>https://aiyanintofire.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Nick&apos;s Blog-严之艮的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[关于选科]]></title>
+        <id>https://aiyanintofire.github.io/post/guan-yu-xuan-ke/</id>
+        <link href="https://aiyanintofire.github.io/post/guan-yu-xuan-ke/">
+        </link>
+        <updated>2020-05-22T10:47:48.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://aiyanintofire.github.io/post-images/1590150372040.jfif" alt="" loading="lazy"></figure>
+<h1 id="声明">声明</h1>
+<p>博主目前是一名高一的学生，我今天写这篇博文是因为我刚刚经历了人生中一个非常重要的事：分科后的第一场大考。这是我关于选科的一些心得</p>
+<h1 id="关于选科">关于选科</h1>
+<figure data-type="image" tabindex="2"><img src="https://aiyanintofire.github.io/post-images/1590150413988.jpg" alt="" loading="lazy"></figure>
+<h2 id="一-什么是新高考选科">一、什么是新高考选科</h2>
+<p>1、传统高考，文理分科<br>
+2、新高考3+3（部分地区采用3+1+2），取消文理分科<br>
+3、选科带来的20种组合</p>
+<h2 id="二-选科的作用">二、选科的作用</h2>
+<p>1、选考：与你的升学关联<br>
+2、学考：关乎你能否读理想大学<br>
+3、选考科目：关乎你如何选择大学专业</p>
+<blockquote>
+<p>--引用自百度百科</p>
+</blockquote>
+<figure data-type="image" tabindex="3"><img src="https://aiyanintofire.github.io/post-images/1590150420442.jpg" alt="" loading="lazy"></figure>
+<h1 id="正文">正文</h1>
+<h2 id="选课依据">选课依据</h2>
+<p>按照目前博主的理解和体会,选什么要参考xy坐标系.</p>
+<h2 id="什么是xy坐标系">什么是xy坐标系?</h2>
+<p>简单来说,就是很常见的数学函数模型(毕竟博主再差也算是个理科生...).x坐标是你对学科的喜欢程度(比如与以后想从事的行业有关的学科),y坐标则是你目前的水(cheng)平(ji),由此综合考量.</p>
+<h2 id="怎么用好坐标系">怎么用好坐标系?</h2>
+<p>要分步骤走</p>
+<h3 id="步骤">步骤</h3>
+<p>1:对你所有的科目打分,最好是十分制(比较好计算,理科生通常都比较懒...🐷)<br>
+2:对你所有科目的水(cheng)平(ji)排个名<br>
+3:将数据填入xy坐标系中</p>
+<h3 id="分析">分析</h3>
+<p>分析xy坐标系并不难(理科大佬请自动略过🤝🤣👀)  距离o点(原点)最远的那一科(与原点连线,线段最长的)就是你该选的最合理的那一科.<br>
+但是,如果每一科都差不多,那你就自由了,直接选你最喜欢的那几科就行了.</p>
+<blockquote>
+<p>Tip:如果你对每一科都不感兴趣...那么,为了你(好看)的成绩,就选你考得最好的那几科就行了...(不过应该不会有这种人吧...?!?!)</p>
+</blockquote>
+<figure data-type="image" tabindex="4"><img src="https://aiyanintofire.github.io/post-images/1590150429125.gif" alt="" loading="lazy"></figure>
+<h1 id="about博主">About博主</h1>
+<p>emm~<br>
+目前博主选的是物化地这个组合...<br>
+没错就是这个神奇的组合,一个大佬云集的选择...(/悄悄话 我现在都觉得我可能走错片场了...因为作为标准的差生,博主我在这片神奇的大佬云集地根本就没有生存空间...呜呜呜...😭)<br>
+哎~~</p>
+<p>博主:Nick 2020-05-22</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Gridea编写博客教程]]></title>
         <id>https://aiyanintofire.github.io/post/shi-yong-gridea-bian-xie-bo-ke-jiao-cheng/</id>
