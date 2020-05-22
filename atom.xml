@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aiyanintofire.github.io</id>
     <title>Nick&apos;s Blog-严之艮的个人博客</title>
-    <updated>2020-05-22T13:03:12.943Z</updated>
+    <updated>2020-05-22T13:06:30.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aiyanintofire.github.io"/>
     <link rel="self" href="https://aiyanintofire.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://aiyanintofire.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Nick&apos;s Blog-严之艮的个人博客</rights>
     <entry>
-        <title type="html"><![CDATA[关于选科]]></title>
+        <title type="html"><![CDATA[关于高中选科分班]]></title>
         <id>https://aiyanintofire.github.io/post/guan-yu-xuan-ke/</id>
         <link href="https://aiyanintofire.github.io/post/guan-yu-xuan-ke/">
         </link>
@@ -33,7 +33,7 @@
 </blockquote>
 <figure data-type="image" tabindex="2"><img src="https://aiyanintofire.github.io/post-images/1590150420442.jpg" alt="" loading="lazy"></figure>
 <h1 id="正文">正文</h1>
-<h2 id="选课依据">选课依据</h2>
+<h2 id="选科依据">选科依据</h2>
 <p>按照目前博主的理解和体会,选什么要参考xy坐标系.</p>
 <h2 id="什么是xy坐标系">什么是xy坐标系?</h2>
 <p>简单来说,就是很常见的数学函数模型(毕竟博主再差也算是个理科生...).x坐标是你对学科的喜欢程度(比如与以后想从事的行业有关的学科),y坐标则是你目前的水(cheng)平(ji),由此综合考量.</p>
